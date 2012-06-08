@@ -2,6 +2,11 @@
 <resources>
 
     <string name="hello">Hello World, LLAppActivity!</string>
-    <string name="app_name">LLApp</string>
+    <string name="app_name">Im a mothafucking monsta</string>
+    <string name="test_label">Test!</string>
+    <string name="learn_label">Learn!</string>
+    <string name="one_label">1</string>
+    <string name="two_label">2</string>
+    <string name="three_label">3</string>
 
 </resources>
